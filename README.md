@@ -3,7 +3,7 @@
 this is  simple PC ball game application. I hope you will love it.
 (PC exe application)
 
-
+(published on 26 july 2020)
 ## Balls game
 
 Play around with the game scene . Navigate through arrow keys :arrow_left: :arrow_down:	:arrow_up: :arrow_right: and R for restart .
